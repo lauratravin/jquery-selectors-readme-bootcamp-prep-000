@@ -11,7 +11,10 @@ function lastImageSelector(){
 
 function ninjaBabySelector(){}
 
-function divSelector(){}
+function divSelector(){
+  return $('div');
+}
+
 
 function firstListItem(){
   return $('ul li:first');
