@@ -2,9 +2,9 @@
 $(document).ready(function(){
 
 function paragraphSelector(){
-  $('p')
+  $("p")
 }
 
 
-paragraphSelector();
+
 })
