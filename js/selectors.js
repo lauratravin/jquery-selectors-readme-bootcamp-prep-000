@@ -13,4 +13,6 @@ function ninjaBabySelector(){}
 
 function divSelector(){}
 
-function firstListItem(){}
+function firstListItem(){
+  eturn $('ul li:first');
+}
