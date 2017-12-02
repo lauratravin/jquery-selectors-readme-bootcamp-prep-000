@@ -5,4 +5,6 @@ function paragraphSelector(){
   $('p')
 }
 
+
+paragraphSelector();
 })
