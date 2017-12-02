@@ -10,7 +10,7 @@ function lastImageSelector(){
 }
 
 function ninjaBabySelector(){
-   return('image#baby-ninja');
+   return('img#baby-ninja');
 }
 
 function divSelector(){
